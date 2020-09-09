@@ -67,7 +67,7 @@
 			<div class="container">
 				<a class="navbar-brand" href="#">
 					<img src="img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
-					App Lista Tarefas.
+					App Lista de Tarefas.
 				</a>
 			</div>
 		</nav>
